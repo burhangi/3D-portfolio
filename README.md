@@ -75,7 +75,7 @@ Welcome to the **Admin Panel** of **My Portfolio**! Manage your portfolio effici
     </ul>
   </div>
   <div style="flex: 50%;">
-    <img src="https://example.com/add-certificate.png" alt="Add Certificate" style="width: 100%; height: auto; border-radius: 8px;"/>
+    <img src="https://github.com/burhangi/3D-portfolio/blob/main/Screenshot%20(176).png" alt="Add Certificate" style="width: 100%; height: auto; border-radius: 8px;"/>
   </div>
 </div>
 
