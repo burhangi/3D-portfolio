@@ -1,6 +1,6 @@
 # **My Dynamic Portfolio Website** 🌐
 
-![Portfolio Logo](https://example.com/portfolio-logo.png) <!-- Replace with your actual logo URL -->
+![Portfolio Logo](https://github.com/burhangi/3D-portfolio/blob/main/Screenshot%20(167).png/portfolio-logo.png) <!-- Replace with your actual logo URL -->
 
 ### **Welcome to My Portfolio!** A showcase of my projects, skills, and experiences, designed with Django, Bootstrap, GSAP, and Three.js.
 
