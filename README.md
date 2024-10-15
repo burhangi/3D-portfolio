@@ -16,7 +16,7 @@
 ## 🛠️ **Admin Panel**
 
 Welcome to the **Admin Panel** of **My Portfolio**! Manage your portfolio efficiently with the following functionalities.
-
+![Portfolio Logo](https://github.com/burhangi/3D-portfolio/blob/main/Screenshot%20(170).png) <!-- Replace with your actual logo URL -->
 ---
 
 ### 📁 **Project Management**
